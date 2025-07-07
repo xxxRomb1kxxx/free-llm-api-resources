@@ -18,6 +18,7 @@ This lists various services that provide free access or credits towards API-base
   - [Mistral (La Plateforme)](#mistral-la-plateforme)
   - [Mistral (Codestral)](#mistral-codestral)
   - [HuggingFace Inference Providers](#huggingface-inference-providers)
+  - [AI/ML API](https://aimlapi.com/app/?utm_source=free-llm-api-resources&utm_medium=github&utm_campaign=integration)
   - [Vercel AI Gateway](#vercel-ai-gateway)
   - [Cerebras](#cerebras)
   - [Groq](#groq)
@@ -46,6 +47,10 @@ This lists various services that provide free access or credits towards API-base
   - [Scaleway Generative APIs](#scaleway-generative-apis)
 
 ## Free Providers
+### [AI/ML API](https://aimlapi.com/app/?utm_source=free-llm-api-resources&utm_medium=github&utm_campaign=integration)
+**Limits:**
+
+[10 requests/hour<br>Free Playground](https://aimlapi.com/ai-ml-api-pricing)
 
 ### [OpenRouter](https://openrouter.ai)
 
@@ -379,6 +384,12 @@ Very stringent payment verification for Google Cloud.
 **Credits:** $1
 
 **Models:** [Various open models](https://fireworks.ai/models)
+
+### [AI/ML API](https://aimlapi.com/app/?utm_source=free-llm-api-resources&utm_medium=github&utm_campaign=integration)
+
+**Credits:** Free 10 requests / hour
+
+**Models:** [Various open models](https://aimlapi.com/ai-ml-api-pricing)
 
 ### [Baseten](https://app.baseten.co/)
 
